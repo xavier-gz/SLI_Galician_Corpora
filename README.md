@@ -14,6 +14,7 @@ Information and contact: Xavier Gómez Guinovart (xgg2021@gmail.com)
 |SLI_NERC_Galician_Gold_FreeLing.1.0.tar.gz|1.7M|_SLI NERC Galician Gold Corpus_ encoded in FreeLing format for machine learning in tasks of Named Entity Recognition and Classification|
 |SLI_CTG_POS.1.1.tar.gz|2.9M|_CTG Galician Technical Corpus_ (http://ilg.usc.gal/ctg/) tagged with POS for machine learning and used for training by the _IXA pipes_ tools (http://ixa2.si.ehu.es/ixa-pipes)|
 |SLI_CTG_Lemma.1.0.tar.gz|3.2M|_CTG Galician Technical Corpus_ (http://ilg.usc.gal/ctg/) lemmatised for machine learning and used for training by the _IXA pipes_ tools (http://ixa2.si.ehu.es/ixa-pipes)|
+|SLI_CTG_POS_Lemma.1.1.tar.gz|3.9M|_CTG Galician Technical Corpus_ (http://ilg.usc.gal/ctg/) tagged with POS and lemmas for machine learning|
 |SLI_GalWeb.1.0.tar.gz|302M|_SLI GalWeb Corpus_ is a large corpus for Galician (174.630.824 words) compiled by the SLI from various domains by crawling for machine learning and used for training by the _IXA pipes_ tools (http://ixa2.si.ehu.es/ixa-pipes)|
 
 ***
